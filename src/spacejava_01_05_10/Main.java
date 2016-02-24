@@ -77,7 +77,7 @@ public class Main {
    while (input !='8')
    {
 
-  //  Object[] passingObjects = {s,jupiter,earth,mars,ganymede,moon,saturn,neptune,pluto,ceres,sun,beltegeuse};
+
 
    checkIfAtPlanet(s,jupiter,earth,mars,ganymede,moon,saturn,neptune,pluto,ceres,sun,beltegeuse);
 
